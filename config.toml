@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Rickyscookies"
+baseURL = "https:\/\/therickyscookiesstore.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "ricks.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
